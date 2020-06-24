@@ -6,9 +6,9 @@ Regression
 Dimensionality Reduction and DBSCAN
 
 # then go on to the ipython notebooks
-1 - Basic Python for Machine Learning - Pandas - Classification
-2 - The regression Problem - PCA and training a Regressor
-3 - Unsupervised Learning - Clustering the nocturnal spring weather of France
+1 - Basic Python for Machine Learning - Pandas - Classification<br>
+2 - The regression Problem - PCA and training a Regressor<br>
+3 - Unsupervised Learning - Clustering the nocturnal spring weather of France<br>
 
 # Contents: 
 The course features a basic introduction to python so that the students
