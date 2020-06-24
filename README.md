@@ -1,4 +1,5 @@
 ### Machine Learning Course tought at the MNHN
+Muséum National d'Histoire Naturelle
 
 # Read the slides first:
 [Classification](https://github.com/haschka/mnhn-machine-learning-course/blob/master/Classification.pdf)<br>
