@@ -9,7 +9,8 @@
 # then go on to the ipython notebooks
 1 - [Basic Python for Machine Learning - Pandas - Classification](https://github.com/haschka/mnhn-machine-learning-course/blob/master/Basic%20Python%20for%20Machine%20Learning%20-%20Pandas%20-%20Classification.ipynb)<br>
 2 - [The regression Problem - PCA and training a Regressor](https://github.com/haschka/mnhn-machine-learning-course/blob/master/The%20regression%20Problem%20-%20PCA%20and%20training%20a%20Regressor.ipynb)<br>
-3 - [Unsupervised Learning - Clustering the nocturnal spring weather of France](https://github.com/haschka/mnhn-machine-learning-course/blob/master/Unsupervised%20Learning%20-%20Clustering%20the%20nocturnal%20spring%20weather%20of%20France.ipynb)
+3 - [Text Mining - Classification](https://github.com/haschka/mnhn-machine-learning-course/blob/master/Text%20Mining%20With%20Tweets%20and%20PCA.ipynb)<br>
+4 - [Unsupervised Learning - Clustering the nocturnal spring weather of France](https://github.com/haschka/mnhn-machine-learning-course/blob/master/Unsupervised%20Learning%20-%20Clustering%20the%20nocturnal%20spring%20weather%20of%20France.ipynb)
 
 # Contents: 
 The course features a basic introduction to python so that the students
