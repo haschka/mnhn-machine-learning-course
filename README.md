@@ -1,4 +1,5 @@
 ### Machine Learning Course tought at the MNHN
+Muséum National d'Histoire Naturelle (16 h course 8h Lectures 8h Exercises)
 
 # Read the slides first:
 [Classification](https://github.com/haschka/mnhn-machine-learning-course/blob/master/Classification.pdf)<br>
