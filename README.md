@@ -1,5 +1,8 @@
 ### Machine Learning Course tought at the MNHN
-Muséum National d'Histoire Naturelle (32 h course 16h Lectures 16h Exercises)
+Muséum National d'Histoire Naturelle (4 full day course including half day lectures, half day practicals)
+
+# The course now has videos of the 2021 session in French:
+[Youtube Playlist](https://www.youtube.com/playlist?list=PLscgsOq_c4-2mLgLHAc10f6dQAiglYJjK)<br>
 
 # Read the slides first:
 [Classification](https://github.com/haschka/mnhn-machine-learning-course/blob/master/Classification.pdf)<br>
